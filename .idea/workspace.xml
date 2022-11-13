@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a463975-7078-4a5e-ab7e-371d6965cda8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task1/Model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task1/Model/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task1/Model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task1/Model/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task1/Model/PetDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task1/Model/Spaniel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task1/Tester/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task2/Model/Clerk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task2/Model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task2/Model/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task2/Model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task2/Tester/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task3/Model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task3/Model/Issue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task3/Model/Journal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task3/Model/Newspaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Castings/Task3/Tester/Edition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringTasks/StringTasks.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HTeD5eGopFM119AHk3hzJlVLjz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.StringTasks">
+    <configuration name="Edition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Castings.Task3.Tester.Edition" />
+      <module name="Homework_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Castings.Task3.Tester.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Farm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Castings.Task1.Tester.Farm" />
+      <module name="Homework_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Castings.Task1.Tester.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTasks.StringTasks" />
+      <module name="Homework_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Castings.Task2.Tester.Tester" />
+      <module name="Homework_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Castings.Task2.Tester.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringTasks" />
+        <item itemvalue="Application.Edition" />
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.Farm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a463975-7078-4a5e-ab7e-371d6965cda8" name="Changes" comment="" />
+      <created>1668313379153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668313379153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
